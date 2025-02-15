@@ -1,0 +1,568 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Test Your IQ WordPress Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-05 09:36+0100\n"
+"PO-Revision-Date: 2021-03-05 09:37+0100\n"
+"Last-Translator: Zbyněk Hovorka <info@proeshopy.cz>\n"
+"Language-Team: Zbynek Hovorka <info@proeshopy.cz>\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-iq-test-admin.php:106 ../admin/class-iq-test-admin.php:112
+msgid "General Settings"
+msgstr "Hlavní nastavení"
+
+#: ../admin/class-iq-test-admin.php:107
+msgid "IQ Test"
+msgstr "IQ Test"
+
+#: ../admin/class-iq-test-admin.php:115 ../admin/class-iq-test-admin.php:116
+msgid "Tests"
+msgstr "Testy"
+
+#: ../admin/class-iq-test-admin.php:123 ../admin/class-iq-test-admin.php:124
+msgid "PayPal"
+msgstr "PayPal"
+
+#: ../admin/class-iq-test-admin.php:131 ../admin/class-iq-test-admin.php:132
+#: ../admin/views/paypal.php:89
+msgid "Info & Help"
+msgstr "Info & Pomoc"
+
+#: ../admin/class-iq-test-admin.php:190
+msgid "Settings"
+msgstr "Nastavení"
+
+#: ../admin/views/help.php:10 ../admin/views/setting.php:96
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../admin/views/help.php:11 ../admin/views/setting.php:102
+msgid "You can add the IQ Test to any post or page using this shortcode"
+msgstr ""
+"Můžete vložit IQ test do každého příspěvku nebo stránky pomocí shortkódu"
+
+#: ../admin/views/help.php:13
+msgid "PayPal Integration"
+msgstr "PayPal Integrace"
+
+#: ../admin/views/help.php:14
+msgid ""
+"For the integration, you will need just \"Client ID\" from PayPal app. "
+"Follow our step by step tutorial."
+msgstr ""
+"Pro registraci budete potřeboval jen \"Client ID\" z PayPal aplikace. "
+"Postupujte podle následného tutoriálu."
+
+#: ../admin/views/help.php:16
+msgid "Go to PayPal Developer site"
+msgstr "Jděte na stránku PayPal pro developery"
+
+#: ../admin/views/help.php:17
+msgid ""
+"Click in the right corner to \"Log in to Dashboard\" and login with your "
+"PayPal account"
+msgstr ""
+"Klikněte v pravém rohu na \"Log in to Dashboard\" a přihlaste se do svého "
+"PayPal účtu"
+
+#: ../admin/views/help.php:18
+msgid "Create a live App. First, click to \"Live\" after hit \"Create app\""
+msgstr "Vytvořte Live App. Klikněte na \"Live\" a potom na \"Create app\""
+
+#: ../admin/views/help.php:19
+msgid "Now just set the name for the app and hit \"Create App\""
+msgstr "Nyní jen nastavte jméno Aplikace a opět klikněte na \"Create App\""
+
+#: ../admin/views/help.php:20
+msgid ""
+"On the next page copy the \"Client ID\" and use this in our PayPal settings."
+msgstr ""
+"Na další stránce klikněte na Copy the \"Client ID\" a užijte toto ID v "
+"nastavení PayPal."
+
+#: ../admin/views/help.php:21
+msgid "Done!"
+msgstr "Hotovo!"
+
+#: ../admin/views/paypal.php:71
+msgid "Allow PayPal"
+msgstr "Povolit PayPal"
+
+#: ../admin/views/paypal.php:76 ../admin/views/setting.php:216
+#: ../admin/views/tests.php:255 ../admin/views/tests.php:263
+msgid "Yes"
+msgstr "Ano"
+
+#: ../admin/views/paypal.php:78 ../admin/views/setting.php:220
+#: ../admin/views/tests.php:257 ../admin/views/tests.php:265
+msgid "No"
+msgstr "Ne"
+
+#: ../admin/views/paypal.php:87
+msgid "PayPal Client ID"
+msgstr "PayPal Client ID"
+
+#: ../admin/views/paypal.php:89
+msgid ""
+"You must create an Live Business APP in PayPal for more information go to "
+"Info & Help section"
+msgstr ""
+"Musíte vytvořit Live Business APP v PayPal pro více informací jděte do sekce "
+"Info & Help"
+
+#: ../admin/views/paypal.php:93
+msgid "Client ID"
+msgstr "Client ID"
+
+#: ../admin/views/paypal.php:101
+msgid "Price"
+msgstr "Cena"
+
+#: ../admin/views/paypal.php:107
+msgid "Amount"
+msgstr "Množství"
+
+#: ../admin/views/paypal.php:115
+msgid "Currency"
+msgstr "Měna"
+
+#: ../admin/views/paypal.php:121
+msgid "Select currency"
+msgstr "Vybrat měnu"
+
+#: ../admin/views/paypal.php:141 ../admin/views/paypal.php:147
+msgid "Payment description"
+msgstr "Popis platby"
+
+#: ../admin/views/paypal.php:156 ../admin/views/paypal.php:260
+#: ../admin/views/setting.php:278
+msgid "Save"
+msgstr "Uložit"
+
+#: ../admin/views/paypal.php:162
+msgid "Test PayPal"
+msgstr "Otestovat PayPal"
+
+#: ../admin/views/paypal.php:189
+msgid "Your payment was successful!"
+msgstr "Tvá platba byla úspěšná!"
+
+#: ../admin/views/paypal.php:205
+msgid "Paypal page text"
+msgstr "PayPal text stránky"
+
+#: ../admin/views/paypal.php:208
+msgid "Short text above the headline"
+msgstr "Krátký text nad titulkem"
+
+#: ../admin/views/paypal.php:214
+msgid "Short text"
+msgstr "Krátký text"
+
+#: ../admin/views/paypal.php:221
+msgid "The headline text"
+msgstr "Text titulku"
+
+#: ../admin/views/paypal.php:227
+msgid "The headline"
+msgstr "Titulek"
+
+#: ../admin/views/paypal.php:234 ../admin/views/paypal.php:240
+msgid "The main description"
+msgstr "Hlavní popis"
+
+#: ../admin/views/paypal.php:247
+msgid "Text for payment of the amount"
+msgstr "Text pro platbu částky"
+
+#: ../admin/views/paypal.php:253
+msgid "Amount text"
+msgstr "Text částky"
+
+#: ../admin/views/setting.php:111
+msgid "Select view test result!"
+msgstr "Vyber zobrazení výsledku!"
+
+#: ../admin/views/setting.php:117
+msgid "Internacional Stanford-Binet Scale (points)"
+msgstr "Mezinárodní Stanford-Binetova škála (body)"
+
+#: ../admin/views/setting.php:123
+msgid "Percentil Scale (%)"
+msgstr "Percentil škála(%)"
+
+#: ../admin/views/setting.php:133
+msgid "Start Button"
+msgstr "Startovní tlačítko"
+
+#: ../admin/views/setting.php:139
+msgid "Simple - without boxes"
+msgstr "Jednoduchý - Bez boxů"
+
+#: ../admin/views/setting.php:145
+msgid "Alternative - With 3 text boxes"
+msgstr "Alternativní - Se třemi textovými boxy"
+
+#: ../admin/views/setting.php:155
+msgid "Button, lines and progress bar color"
+msgstr "Barva tlačítka a ukazatele průběhu"
+
+#: ../admin/views/setting.php:161
+msgid "Select color"
+msgstr "Vybrat barvu"
+
+#: ../admin/views/setting.php:169
+msgid "Top Text in the box"
+msgstr "Hlavní text v boxu"
+
+#: ../admin/views/setting.php:183
+msgid "Left Side Text in the box"
+msgstr "Text levé strany"
+
+#: ../admin/views/setting.php:196
+msgid "Right Side Text in the box"
+msgstr "Text pravé strany"
+
+#: ../admin/views/setting.php:210
+msgid "Allow social icons for sharing in the result page"
+msgstr "Povolit ikony sociálních sítí na stránce s výsledkem"
+
+#: ../admin/views/setting.php:227
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../admin/views/setting.php:231
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../admin/views/setting.php:235
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../admin/views/setting.php:239
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: ../admin/views/setting.php:243
+msgid "VKontakte"
+msgstr "VKontakte"
+
+#: ../admin/views/setting.php:251
+msgid "Image for Open Graph"
+msgstr "Obrázek pro Open Graph"
+
+#: ../admin/views/setting.php:257
+msgid "Use default image"
+msgstr "Použít standartní obrázek"
+
+#: ../admin/views/setting.php:261
+msgid "Use custom image"
+msgstr "Použít vlastní obrázek"
+
+#: ../admin/views/setting.php:269
+msgid "Custom image URL"
+msgstr "URL vlastního obrázku"
+
+#: ../admin/views/tests.php:186
+msgid "Newest"
+msgstr "Nejnovější"
+
+#: ../admin/views/tests.php:187
+msgid "Oldest"
+msgstr "Nejstarší"
+
+#: ../admin/views/tests.php:188
+msgid "Most Points"
+msgstr "Nejvíce bodů"
+
+#: ../admin/views/tests.php:189
+msgid "Least Points"
+msgstr "Nejméně bodů"
+
+#: ../admin/views/tests.php:191
+msgid "Paid tests"
+msgstr "Placené testy"
+
+#: ../admin/views/tests.php:192
+msgid "Unpaid tests"
+msgstr "Neplacené testy"
+
+#: ../admin/views/tests.php:194
+msgid "Unfinished tests"
+msgstr "Nedokončené testy"
+
+#: ../admin/views/tests.php:197
+msgid "Filter"
+msgstr "Filtr"
+
+#: ../admin/views/tests.php:205
+msgid "Search by Test ID"
+msgstr "Hledat by ID Testu"
+
+#: ../admin/views/tests.php:206
+msgid "Search"
+msgstr "Hledat"
+
+#: ../admin/views/tests.php:213
+msgid "Results per page"
+msgstr "Výsledek testu"
+
+#: ../admin/views/tests.php:223 ../admin/views/tests.php:235
+msgid "ID"
+msgstr "ID"
+
+#: ../admin/views/tests.php:224 ../admin/views/tests.php:237
+msgid "Test ID"
+msgstr "ID Testu"
+
+#: ../admin/views/tests.php:225 ../admin/views/tests.php:236
+msgid "Date"
+msgstr "Datum"
+
+#: ../admin/views/tests.php:226 ../admin/views/tests.php:238
+msgid "Time"
+msgstr "Čas"
+
+#: ../admin/views/tests.php:227 ../admin/views/tests.php:239
+msgid "Result"
+msgstr "Výsledek"
+
+#: ../admin/views/tests.php:228 ../admin/views/tests.php:240
+msgid "Finished"
+msgstr "Dokončeno"
+
+#: ../admin/views/tests.php:229 ../admin/views/tests.php:241
+msgid "Payment"
+msgstr "Platba"
+
+#: ../admin/views/tests.php:312
+msgid "Do you want to delete all selected tests?"
+msgstr "Skutečně chcete smazat všechny výsledky testů?"
+
+#: ../admin/views/tests.php:312
+msgid "Delete selected"
+msgstr "Smazat vybrané"
+
+#: ../admin/views/tests.php:313
+msgid "Do you want mark selected tests as paid?"
+msgstr "Chcete označit vybrané testy jako zaplacené?"
+
+#: ../admin/views/tests.php:313
+msgid "Mark selected as paid"
+msgstr "Označit vybrané jako zaplacené"
+
+#: ../admin/views/tests.php:314
+msgid "Do you want mark selected tests as unpaid?"
+msgstr "Skutečně chcete vybrané testy označit jako nezaplacené?"
+
+#: ../admin/views/tests.php:314
+msgid "Mark selected as unpaid"
+msgstr "Označit vybrané jako nezaplacené"
+
+#: ../admin/views/tests.php:316
+msgid "Do you want to delete all unfinished tests? Are you sure!?"
+msgstr "Skutečně chcete smazat všechny nedokončené testy? Jste si jistý/á!?"
+
+#: ../admin/views/tests.php:316 ../admin/views/tests.php:323
+msgid "Delete all unfinished tests older than 24 hours!"
+msgstr "Smazat všechny nedokončené testy starší než 24 hodin!"
+
+#: ../admin/views/tests.php:317
+msgid "Do you want to delete all unpaid tests? Are you sure!?"
+msgstr "Skutečně chcete smazat všechny nezaplacené testy? Jste si jistý/a?"
+
+#: ../admin/views/tests.php:317 ../admin/views/tests.php:324
+msgid "Delete all unpaid tests older than 24 hours!"
+msgstr "Smazat všechny nezaplacené testy starší než 24 hodin!"
+
+#: ../admin/views/tests.php:318
+msgid "Do you want to delete all tests? Are you sure!?"
+msgstr "Skutečně chcete smazat všechny testy? Jste si jistý/á?"
+
+#: ../admin/views/tests.php:318 ../admin/views/tests.php:325
+msgid "Delete all tests results!"
+msgstr "Smaž všechny výsledky testu!"
+
+#: ../admin/views/tests.php:323
+msgid ""
+"It will clear your database from unnecessary data and your running tests are "
+"safe because of the 24 hour limit."
+msgstr ""
+"Tímto vyčistíte databázi od neužitečných a zbytečných dat a vaše započaté "
+"testy zůstanou v bezpečí díky 24 hodinovému limitu."
+
+#: ../admin/views/tests.php:324
+msgid "It will delete all tests that are finished but not paid."
+msgstr ""
+"Tímto smažete všechny testy, které jsou dokončené, ale nejsou zaplacené."
+
+#: ../admin/views/tests.php:325
+msgid ""
+"It will delete all tests and from database so please be sure that you do not "
+"have any running tests!"
+msgstr ""
+"Toto smaže všechny testy z databáze proto prosím buďte opatrní, smažete i "
+"již probíhající testy!"
+
+#: ../public/includes/class-seo.php:136 ../public/includes/class-seo.php:148
+#: ../public/includes/class-seo.php:158 ../public/includes/class-seo.php:171
+msgid "IQ Test Result"
+msgstr "Výsledek IQ Testu"
+
+#: ../public/includes/shortcode-functions/age.php:38
+msgid "Your test time expired!"
+msgstr "Tvůj čas pro test již expiroval!"
+
+#: ../public/includes/shortcode-functions/age.php:40
+msgid "Question 30/30"
+msgstr "Otázka 30/30"
+
+#: ../public/includes/shortcode-functions/age.php:66
+msgid "Final Step"
+msgstr "Poslední krok"
+
+#: ../public/includes/shortcode-functions/age.php:66
+msgid "Select Your Age!"
+msgstr "Zvol svůj věk!"
+
+#: ../public/includes/shortcode-functions/age.php:71
+#: ../public/includes/shortcode-functions/age.php:72
+#: ../public/includes/shortcode-functions/age.php:73
+#: ../public/includes/shortcode-functions/age.php:74
+msgid "Age"
+msgstr "Věk"
+
+#: ../public/includes/shortcode-functions/payment.php:30
+#: ../public/includes/shortcode-functions/results.php:129
+#: ../public/includes/shortcode-functions/results.php:137
+msgid "ID of the Test:"
+msgstr "ID Testu:"
+
+#: ../public/includes/shortcode-functions/questions.php:88
+msgid "min"
+msgstr "min"
+
+#: ../public/includes/shortcode-functions/questions.php:88
+msgid "sec"
+msgstr "sek"
+
+#: ../public/includes/shortcode-functions/questions.php:98
+#, php-format
+msgid "Question %s/30"
+msgstr "Otázka %s/30"
+
+#: ../public/includes/shortcode-functions/questions.php:154
+msgid "Skip this question!"
+msgstr "Přeskočit otázku!"
+
+#: ../public/includes/shortcode-functions/results.php:70
+msgid "Test with this ID was not finished."
+msgstr "Test s tímto ID nebyl dokončen."
+
+#: ../public/includes/shortcode-functions/results.php:78
+msgid "IQ CLASSIFICATION - Lower extreme!"
+msgstr "IQ KLASIFIKACE - Silně podprůměrný výsledek!"
+
+#: ../public/includes/shortcode-functions/results.php:80
+msgid "IQ CLASSIFICATION - Well below average!"
+msgstr "IQ KLASIFIKACE - Silně podprůměrný výsledek!"
+
+#: ../public/includes/shortcode-functions/results.php:82
+msgid "IQ CLASSIFICATION - Low Average!"
+msgstr "IQ KLASIFIKACE - Podprůměrný výsledek!"
+
+#: ../public/includes/shortcode-functions/results.php:84
+msgid "IQ CLASSIFICATION - Average!"
+msgstr "IQ KLASIFIKACE - Průměrný výsledek!"
+
+#: ../public/includes/shortcode-functions/results.php:86
+msgid "IQ CLASSIFICATION - High Average!"
+msgstr "IQ KLASIFIKACE - Nadpůrměrný výsledek!"
+
+#: ../public/includes/shortcode-functions/results.php:88
+msgid "IQ CLASSIFICATION - Well above average!"
+msgstr "IQ KLASIFIKACE - Nadprůměrná Inteligence!"
+
+#: ../public/includes/shortcode-functions/results.php:90
+msgid "IQ CLASSIFICATION - Upper extreme!"
+msgstr "IQ KLASIFIKACE - Extrémě nadprůměrná inteligence!"
+
+#: ../public/includes/shortcode-functions/results.php:125
+#: ../public/includes/shortcode-functions/results.php:132
+msgid "CONGRATULATIONS!"
+msgstr "BLAHOPŘEJEME!"
+
+#: ../public/includes/shortcode-functions/results.php:125
+msgid "YOUR IQ IS"
+msgstr "TVÉ IQ JE"
+
+#: ../public/includes/shortcode-functions/results.php:132
+msgid "YOUR IQ TEST RESULT IS"
+msgstr "VÝSLEDEK TVÉHO IQ TESTU JE"
+
+#: ../public/includes/shortcode-functions/results.php:135
+msgid "of Population is smarter then You!"
+msgstr "populace je chytřejší než Ty!"
+
+#: ../public/includes/shortcode-functions/results.php:146
+msgid "My IQ Test Result"
+msgstr "Výsledek mého IQ Testu"
+
+#: ../public/includes/shortcode-functions/results.php:180
+msgid "Here are correct answers for questions, in which you made a mistake:"
+msgstr "Zde jsou správné odpovědi na otázky ve kterých jsi neuspěl/a:"
+
+#: ../public/includes/shortcode-functions/results.php:185
+msgid "All your answers are correct!"
+msgstr "Všechny tvé odpovědi byly správně!"
+
+#: ../public/includes/shortcode-functions/results.php:195
+msgid "Questions no."
+msgstr "Otázka číslo"
+
+#: ../public/includes/shortcode-functions/results.php:236
+msgid "Test not exists!"
+msgstr "Test neexistuje!"
+
+#: ../public/includes/shortcode-functions/results.php:242
+msgid "Test ID is not set!"
+msgstr "ID tohoto testu neexistuje!"
+
+#: ../public/includes/shortcode-functions/start.php:39
+msgid "IQ Test - Online quiz"
+msgstr "IQ Test - Online kvíz"
+
+#: ../public/includes/shortcode-functions/start.php:45
+#: ../public/includes/shortcode-functions/start.php:55
+msgid "Take The Test"
+msgstr "Spustit Test"
+
+#~ msgid "Question"
+#~ msgstr "Otázka"
+
+#~ msgid "Order"
+#~ msgstr "Řazení"
+
+#~ msgid "Points"
+#~ msgstr "Body"
+
+#~ msgid "Top Text"
+#~ msgstr "Horní Text"
+
+#~ msgid "6-14"
+#~ msgstr "6-14"
+
+#~ msgid "14-99"
+#~ msgstr "14-99"
+
+#~ msgid "%"
+#~ msgstr "%"

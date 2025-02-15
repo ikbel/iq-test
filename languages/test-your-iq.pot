@@ -1,0 +1,533 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Test Your IQ WordPress Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-12 18:19+0100\n"
+"PO-Revision-Date: 2021-03-12 19:35+0100\n"
+"Last-Translator: Zbyněk Hovorka <info@proeshopy.cz>\n"
+"Language-Team: Zbynek Hovorka <info@galleryplugins.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-iq-test-admin.php:106 ../admin/class-iq-test-admin.php:112
+msgid "General Settings"
+msgstr ""
+
+#: ../admin/class-iq-test-admin.php:107
+msgid "IQ Test"
+msgstr ""
+
+#: ../admin/class-iq-test-admin.php:115 ../admin/class-iq-test-admin.php:116
+msgid "Tests"
+msgstr ""
+
+#: ../admin/class-iq-test-admin.php:123 ../admin/class-iq-test-admin.php:124
+msgid "PayPal"
+msgstr ""
+
+#: ../admin/class-iq-test-admin.php:131 ../admin/class-iq-test-admin.php:132
+#: ../admin/views/paypal.php:89
+msgid "Info & Help"
+msgstr ""
+
+#: ../admin/class-iq-test-admin.php:190
+msgid "Settings"
+msgstr ""
+
+#: ../admin/views/help.php:10 ../admin/views/setting.php:96
+msgid "Shortcode"
+msgstr ""
+
+#: ../admin/views/help.php:11 ../admin/views/setting.php:102
+msgid "You can add the IQ Test to any post or page using this shortcode"
+msgstr ""
+
+#: ../admin/views/help.php:13
+msgid "PayPal Integration"
+msgstr ""
+
+#: ../admin/views/help.php:14
+msgid ""
+"For the integration, you will need just \"Client ID\" from PayPal app. "
+"Follow our step by step tutorial."
+msgstr ""
+
+#: ../admin/views/help.php:16
+msgid "Go to PayPal Developer site"
+msgstr ""
+
+#: ../admin/views/help.php:17
+msgid ""
+"Click in the right corner to \"Log in to Dashboard\" and login with your "
+"PayPal account"
+msgstr ""
+
+#: ../admin/views/help.php:18
+msgid "Create a live App. First, click to \"Live\" after hit \"Create app\""
+msgstr ""
+
+#: ../admin/views/help.php:19
+msgid "Now just set the name for the app and hit \"Create App\""
+msgstr ""
+
+#: ../admin/views/help.php:20
+msgid ""
+"On the next page copy the \"Client ID\" and use this in our PayPal settings."
+msgstr ""
+
+#: ../admin/views/help.php:21
+msgid "Done!"
+msgstr ""
+
+#: ../admin/views/paypal.php:71
+msgid "Allow PayPal"
+msgstr ""
+
+#: ../admin/views/paypal.php:76 ../admin/views/setting.php:216
+#: ../admin/views/tests.php:255 ../admin/views/tests.php:263
+msgid "Yes"
+msgstr ""
+
+#: ../admin/views/paypal.php:78 ../admin/views/setting.php:220
+#: ../admin/views/tests.php:257 ../admin/views/tests.php:265
+msgid "No"
+msgstr ""
+
+#: ../admin/views/paypal.php:87
+msgid "PayPal Client ID"
+msgstr ""
+
+#: ../admin/views/paypal.php:89
+msgid ""
+"You must create an Live Business APP in PayPal for more information go to "
+"Info & Help section"
+msgstr ""
+
+#: ../admin/views/paypal.php:93
+msgid "Client ID"
+msgstr ""
+
+#: ../admin/views/paypal.php:101
+msgid "Price"
+msgstr ""
+
+#: ../admin/views/paypal.php:107
+msgid "Amount"
+msgstr ""
+
+#: ../admin/views/paypal.php:115
+msgid "Currency"
+msgstr ""
+
+#: ../admin/views/paypal.php:121
+msgid "Select currency"
+msgstr ""
+
+#: ../admin/views/paypal.php:141 ../admin/views/paypal.php:147
+msgid "Payment description"
+msgstr ""
+
+#: ../admin/views/paypal.php:156 ../admin/views/paypal.php:260
+#: ../admin/views/setting.php:278
+msgid "Save"
+msgstr ""
+
+#: ../admin/views/paypal.php:162
+msgid "Test PayPal"
+msgstr ""
+
+#: ../admin/views/paypal.php:189
+msgid "Your payment was successful!"
+msgstr ""
+
+#: ../admin/views/paypal.php:205
+msgid "Paypal page text"
+msgstr ""
+
+#: ../admin/views/paypal.php:208
+msgid "Short text above the headline"
+msgstr ""
+
+#: ../admin/views/paypal.php:214
+msgid "Short text"
+msgstr ""
+
+#: ../admin/views/paypal.php:221
+msgid "The headline text"
+msgstr ""
+
+#: ../admin/views/paypal.php:227
+msgid "The headline"
+msgstr ""
+
+#: ../admin/views/paypal.php:234 ../admin/views/paypal.php:240
+msgid "The main description"
+msgstr ""
+
+#: ../admin/views/paypal.php:247
+msgid "Text for payment of the amount"
+msgstr ""
+
+#: ../admin/views/paypal.php:253
+msgid "Amount text"
+msgstr ""
+
+#: ../admin/views/setting.php:111
+msgid "Select view test result!"
+msgstr ""
+
+#: ../admin/views/setting.php:117
+msgid "Internacional Stanford-Binet Scale (points)"
+msgstr ""
+
+#: ../admin/views/setting.php:123
+msgid "Percentil Scale (%)"
+msgstr ""
+
+#: ../admin/views/setting.php:133
+msgid "Start Button"
+msgstr ""
+
+#: ../admin/views/setting.php:139
+msgid "Simple - without boxes"
+msgstr ""
+
+#: ../admin/views/setting.php:145
+msgid "Alternative - With 3 text boxes"
+msgstr ""
+
+#: ../admin/views/setting.php:155
+msgid "Button, lines and progress bar color"
+msgstr ""
+
+#: ../admin/views/setting.php:161
+msgid "Select color"
+msgstr ""
+
+#: ../admin/views/setting.php:169
+msgid "Top Text in the box"
+msgstr ""
+
+#: ../admin/views/setting.php:183
+msgid "Left Side Text in the box"
+msgstr ""
+
+#: ../admin/views/setting.php:196
+msgid "Right Side Text in the box"
+msgstr ""
+
+#: ../admin/views/setting.php:210
+msgid "Allow social icons for sharing in the result page"
+msgstr ""
+
+#: ../admin/views/setting.php:227
+msgid "Facebook"
+msgstr ""
+
+#: ../admin/views/setting.php:231
+msgid "Twitter"
+msgstr ""
+
+#: ../admin/views/setting.php:235
+msgid "Pinterest"
+msgstr ""
+
+#: ../admin/views/setting.php:239
+msgid "Whatsapp"
+msgstr ""
+
+#: ../admin/views/setting.php:243
+msgid "VKontakte"
+msgstr ""
+
+#: ../admin/views/setting.php:251
+msgid "Image for Open Graph"
+msgstr ""
+
+#: ../admin/views/setting.php:257
+msgid "Use default image"
+msgstr ""
+
+#: ../admin/views/setting.php:261
+msgid "Use custom image"
+msgstr ""
+
+#: ../admin/views/setting.php:269
+msgid "Custom image URL"
+msgstr ""
+
+#: ../admin/views/tests.php:186
+msgid "Newest"
+msgstr ""
+
+#: ../admin/views/tests.php:187
+msgid "Oldest"
+msgstr ""
+
+#: ../admin/views/tests.php:188
+msgid "Most Points"
+msgstr ""
+
+#: ../admin/views/tests.php:189
+msgid "Least Points"
+msgstr ""
+
+#: ../admin/views/tests.php:191
+msgid "Paid tests"
+msgstr ""
+
+#: ../admin/views/tests.php:192
+msgid "Unpaid tests"
+msgstr ""
+
+#: ../admin/views/tests.php:194
+msgid "Unfinished tests"
+msgstr ""
+
+#: ../admin/views/tests.php:197
+msgid "Filter"
+msgstr ""
+
+#: ../admin/views/tests.php:205
+msgid "Search by Test ID"
+msgstr ""
+
+#: ../admin/views/tests.php:206
+msgid "Search"
+msgstr ""
+
+#: ../admin/views/tests.php:213
+msgid "Results per page"
+msgstr ""
+
+#: ../admin/views/tests.php:223 ../admin/views/tests.php:235
+msgid "ID"
+msgstr ""
+
+#: ../admin/views/tests.php:224 ../admin/views/tests.php:237
+msgid "Test ID"
+msgstr ""
+
+#: ../admin/views/tests.php:225 ../admin/views/tests.php:236
+msgid "Date"
+msgstr ""
+
+#: ../admin/views/tests.php:226 ../admin/views/tests.php:238
+msgid "Time"
+msgstr ""
+
+#: ../admin/views/tests.php:227 ../admin/views/tests.php:239
+msgid "Result"
+msgstr ""
+
+#: ../admin/views/tests.php:228 ../admin/views/tests.php:240
+msgid "Finished"
+msgstr ""
+
+#: ../admin/views/tests.php:229 ../admin/views/tests.php:241
+msgid "Payment"
+msgstr ""
+
+#: ../admin/views/tests.php:312
+msgid "Do you want to delete all selected tests?"
+msgstr ""
+
+#: ../admin/views/tests.php:312
+msgid "Delete selected"
+msgstr ""
+
+#: ../admin/views/tests.php:313
+msgid "Do you want mark selected tests as paid?"
+msgstr ""
+
+#: ../admin/views/tests.php:313
+msgid "Mark selected as paid"
+msgstr ""
+
+#: ../admin/views/tests.php:314
+msgid "Do you want mark selected tests as unpaid?"
+msgstr ""
+
+#: ../admin/views/tests.php:314
+msgid "Mark selected as unpaid"
+msgstr ""
+
+#: ../admin/views/tests.php:316
+msgid "Do you want to delete all unfinished tests? Are you sure!?"
+msgstr ""
+
+#: ../admin/views/tests.php:316 ../admin/views/tests.php:323
+msgid "Delete all unfinished tests older than 24 hours!"
+msgstr ""
+
+#: ../admin/views/tests.php:317
+msgid "Do you want to delete all unpaid tests? Are you sure!?"
+msgstr ""
+
+#: ../admin/views/tests.php:317 ../admin/views/tests.php:324
+msgid "Delete all unpaid tests older than 24 hours!"
+msgstr ""
+
+#: ../admin/views/tests.php:318
+msgid "Do you want to delete all tests? Are you sure!?"
+msgstr ""
+
+#: ../admin/views/tests.php:318 ../admin/views/tests.php:325
+msgid "Delete all tests results!"
+msgstr ""
+
+#: ../admin/views/tests.php:323
+msgid ""
+"It will clear your database from unnecessary data and your running tests are "
+"safe because of the 24 hour limit."
+msgstr ""
+
+#: ../admin/views/tests.php:324
+msgid "It will delete all tests that are finished but not paid."
+msgstr ""
+
+#: ../admin/views/tests.php:325
+msgid ""
+"It will delete all tests and from database so please be sure that you do not "
+"have any running tests!"
+msgstr ""
+
+#: ../public/includes/class-seo.php:136 ../public/includes/class-seo.php:148
+#: ../public/includes/class-seo.php:158 ../public/includes/class-seo.php:171
+msgid "IQ Test Result"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/age.php:38
+msgid "Your test time expired!"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/age.php:40
+msgid "Question 30/30"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/age.php:55
+msgid "Final Step"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/age.php:55
+msgid "Select Your Age!"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/age.php:60
+#: ../public/includes/shortcode-functions/age.php:61
+#: ../public/includes/shortcode-functions/age.php:62
+#: ../public/includes/shortcode-functions/age.php:63
+msgid "Age"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/payment.php:30
+#: ../public/includes/shortcode-functions/results.php:129
+#: ../public/includes/shortcode-functions/results.php:137
+msgid "ID of the Test:"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/questions.php:85
+msgid "min"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/questions.php:86
+msgid "sec"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/questions.php:96
+#, php-format
+msgid "Question %s/30"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/questions.php:139
+msgid "Skip this question!"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/results.php:70
+msgid "Test with this ID was not finished."
+msgstr ""
+
+#: ../public/includes/shortcode-functions/results.php:78
+msgid "IQ CLASSIFICATION - Lower extreme!"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/results.php:80
+msgid "IQ CLASSIFICATION - Well below average!"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/results.php:82
+msgid "IQ CLASSIFICATION - Low Average!"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/results.php:84
+msgid "IQ CLASSIFICATION - Average!"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/results.php:86
+msgid "IQ CLASSIFICATION - High Average!"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/results.php:88
+msgid "IQ CLASSIFICATION - Well above average!"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/results.php:90
+msgid "IQ CLASSIFICATION - Upper extreme!"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/results.php:125
+#: ../public/includes/shortcode-functions/results.php:132
+msgid "CONGRATULATIONS!"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/results.php:125
+msgid "YOUR IQ IS"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/results.php:132
+msgid "YOUR IQ TEST RESULT IS"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/results.php:135
+msgid "of Population is smarter then You!"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/results.php:146
+msgid "My IQ Test Result"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/results.php:180
+msgid "Here are correct answers for questions, in which you made a mistake:"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/results.php:185
+msgid "All your answers are correct!"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/results.php:195
+msgid "Questions no."
+msgstr ""
+
+#: ../public/includes/shortcode-functions/results.php:236
+msgid "Test not exists!"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/results.php:242
+msgid "Test ID is not set!"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/start.php:39
+msgid "IQ Test - Online quiz"
+msgstr ""
+
+#: ../public/includes/shortcode-functions/start.php:45
+#: ../public/includes/shortcode-functions/start.php:55
+msgid "Take The Test"
+msgstr ""
